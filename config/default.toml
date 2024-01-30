@@ -1,0 +1,10 @@
+debug = false
+
+[mqtt]
+host = "iot.cloud"
+port = 1883
+topic = "topic"
+
+[logs]
+path = "logs/log"
+files = 240
